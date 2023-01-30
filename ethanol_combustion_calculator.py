@@ -1,10 +1,9 @@
 import math
 from sympy import symbols, solve
 
-V = None
-
 selection = input("Select:\n1 - Volume\n2 - Pipe Dimensions\n")
 
+V = None
 if selection == "2":
     R = float(input("Inner Diameter in mm: "))
     L = float(input("Length in mm: "))
