@@ -1,6 +1,6 @@
 Sources:
 
-Chemical Properties of Ethanol: https://pubchem.ncbi.nlm.nih.gov/compound/Ethanol#section=Related-Compounds-with-Annotation
+Chemical Properties of Ethanol: https://pubchem.ncbi.nlm.nih.gov/compound/Ethanol#section=Chemical-and-Physical-Properties
 
 
 Solving Equations with SymPy: 	https://problemsolvingwithpython.com/10-Symbolic-Math/10.06-Solving-Equations/
